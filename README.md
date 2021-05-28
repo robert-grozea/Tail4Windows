@@ -15,4 +15,5 @@ Implemented options are:
 -h --help - Displays this HELP information
 
 #####Ex. tail -n 10 system.log
+
 #####Displays the last 10 lines of the system.log file 
