@@ -1,0 +1,97 @@
+1	Acesta e un fisier de test
+2
+3	Avem aici tot felul de chestii
+4
+5	Mare branza
+6
+7	Om vedea
+8
+9	Costica? Dormi?
+10
+11	Nu cred ca doarme ...
+12	sau cine stie?!?!
+13	 branza
+14
+15	Om vedea
+16	Acesta e un fisier de test
+17
+18	Avem aici tot felul de chestii
+19
+20	Mare branza
+21
+22	Om vedea
+23
+24	Costica? Dormi?
+25
+26	Nu cred ca doarme ...
+27	sau cine stie?!?!
+28	 branza
+29
+30	Om vedea
+31
+32	Om vedea
+33
+34	Om vedea
+35	Acesta e un fisier de test
+36
+37	Avem aici tot felul de chestii
+38
+39	Mare branza
+40
+41	Om vedea
+42
+43	Costica? Dormi?
+44
+45	Nu cred ca doarme ...
+46	sau cine stie?!?!
+47	 branza
+48
+49	Acesta e un fisier de test
+50
+51	Avem aici tot felul de chestii
+52
+53	Mare branza
+54
+55	Om vedea
+56
+57	Costica? Dormi?
+58
+59	Nu cred ca doarme ...
+60	sau cine stie?!?!
+61	 branza
+62
+63	Om vedea
+64	Acesta e un fisier de test
+65
+66	Avem aici tot felul de chestii
+67
+68	Mare branza
+69
+70	Om vedea
+71
+72	Costica? Dormi?
+73
+74	Nu cred ca doarme ...
+75	sau cine stie?!?!
+76	 branza
+77
+78	Om vedea
+79	Om vedea
+80	Acesta e un fisier de test
+81
+82	Avem aici tot felul de chestii
+83
+84	Mare branza
+85
+	Om vedea
+87
+88	Costica? Dormi?
+
+90	Nu cred ca doarme ...
+91	sau cine stie?!?!
+92	 branza
+
+94	Om vedea
+mai bagam o fisa
+sa vedem daca para
+
