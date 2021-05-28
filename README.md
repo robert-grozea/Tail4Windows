@@ -17,3 +17,12 @@ Implemented options are:
 #####Ex. tail -n 10 system.log
 
 #####Displays the last 10 lines of the system.log file 
+
+###Build
+
+Make sure that you have a valid GOLANG installation and execute the ***build.cmd*** file. This will result in compilation and generation of tail.exe file.
+Once the ***tail.exe*** has been generated you can add it to the PATH and use it exactly like you do in Linux environment.
+
+Currently only a part of the options have been implemented since some of the options do not make sens to exist in the Windows enviornment.
+
+####Enjoy!
