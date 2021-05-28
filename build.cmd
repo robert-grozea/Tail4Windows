@@ -1,4 +1,7 @@
 @echo off
+REM *****************************************************
+REM * This file will build the tail.exe executable file *
+REM *****************************************************
 
 echo Cleaning up
 go clean
